@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_8	i%20loaf%20u
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_9	Open%20When%20You%20Feel%20Stuck%20in%20a%20Routine
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_10	Open%20when%20you%20are%20confused%20about%20what%20to%20gift%20me
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_11	Open%20When%20I%27m%20Angry%20with%20You
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_12	Open%20When%20You%20Don%E2%80%99t%20Feel%20Respected
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_13	Open%20When%20You%20First%20Receive%20This
+valentines.keepsake.id	TRUE	/	FALSE	1999999999	ays_popup_cookie_14	Open%20When%20You%20Need%20My%20Support
+offdeck.telkomsel.com:1443	TRUE	/	FALSE	1999999999	SERVERUSED	offdeckpapp5
+offdeck.telkomsel.com:1443	TRUE	/	FALSE	1999999999	TS014ca6af	019f61d29c6f6c08327e7db390eb5aa96e0c54b511d2d507fd9f5801859269d8911d5e60f8706aef3d6cf21fc06d56b64184cc4814252bcc1b204107eddc6dfbd4df3fef2b
+
